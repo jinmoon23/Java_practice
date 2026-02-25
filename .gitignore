@@ -1,0 +1,55 @@
+# =========================
+# IntelliJ IDEA
+# =========================
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# IntelliJ plugin caches
+.idea_modules/
+
+# =========================
+# Gradle
+# =========================
+.gradle/
+build/
+**/build/
+
+# Gradle (optional) local properties
+local.properties
+
+# =========================
+# Java
+# =========================
+*.class
+*.log
+
+# =========================
+# macOS
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# =========================
+# VS Code (혹시 열어볼 때)
+# =========================
+.vscode/
+
+# =========================
+# Temp / Input files (코테 로컬 테스트용, 필요 없으면 삭제)
+# =========================
+*.tmp
+*.temp
+input.txt
+output.txt
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.swo
+*~
