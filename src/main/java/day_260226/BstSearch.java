@@ -1,7 +1,6 @@
 package day_260226;
 
 import java.util.Arrays;
-import java.util.List;
 
 public class BstSearch {
     static class Node {
